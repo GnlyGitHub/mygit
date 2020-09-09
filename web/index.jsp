@@ -78,7 +78,7 @@
 
       <c:if test="${not empty requestScope.loginMsg}">
         <c:if test="${!requestScope.loginMsg}">
-            layer.msg("用户名或密码错",{icon:5});
+            layer.msg("用户名或密码错乌",{icon:5});
         </c:if>
       </c:if>
     });
