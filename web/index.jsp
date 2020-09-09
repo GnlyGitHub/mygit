@@ -58,7 +58,7 @@
       <div class="layui-form-item">
         <label class="layui-form-label">密码</label>
         <div class="layui-input-inline">
-          <input type="password" name="pwd" required lay-verify="required" value="<%=pwd%>" placeholder="请输入密码" autocomplete="off" class="layui-input">
+          <input type="password" name="pwd" required lay-verify="required" value="<%=pwd%>" placeholder="请输入密码来来来" autocomplete="off" class="layui-input">
         </div>
       </div>
       <div class="layui-form-item" style="position: relative; right: 50px">
